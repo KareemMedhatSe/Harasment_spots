@@ -1,4 +1,4 @@
-# Harasment_spots
+# Harassment_spots
 ### Description
 It is a website that gives the victims of sexual harassment the ability to put a pin on the map which represents the location where they were sexually harassed, an image and a description of what happened in that incident must be attached to this pin, and each incident will be shown on the map as a pin so that all the sexual incidents will appear as pins on the map so that we can expose the sexual harassers, in order to be able to put a new pin on the map with description and image users have to sign up with their personal information and login.
 
